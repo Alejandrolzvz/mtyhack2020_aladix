@@ -1,0 +1,36 @@
+{
+  "name": "spacing_app",
+  "version": "0.0.1",
+  "description": "This app computes available seating in a cinema. Depending on the occupancy",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jwt-decode": "^2.2.0",
+    "keytar": "^6.0.1"
+  },
+  "devDependencies": {
+    "electron": "^10.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemontyc/mtyhack2020_aladix.git"
+  },
+  "keywords": [
+    "cinema",
+    "spacing",
+    "calculator"
+  ],
+  "author": "Luis M. - Ivan Ochoa - Alejandro Lopez",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/lemontyc/mtyhack2020_aladix/issues"
+  },
+  "homepage": "https://github.com/lemontyc/mtyhack2020_aladix#readme"
+}
